@@ -1,2 +1,3 @@
-# Python_projects_studies
-Python projects created during the studies
+Projekt został przygotowany w języku polskim
+ <br />
+Data utworzenia: 01.2021
