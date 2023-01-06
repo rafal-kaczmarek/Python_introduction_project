@@ -14,4 +14,5 @@ Dane wykorzystane w tym projekcie pochodzą ze strony https://wwwn.cdc.gov/ a zo
 
 -Physical Functioning - zawiera informacje na temat zdrowia psychicznego.  
   
+<br />
 Data utworzenia: 02.2021
